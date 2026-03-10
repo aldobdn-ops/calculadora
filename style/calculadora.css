@@ -1,5 +1,5 @@
 body {
-    background-image: url("/media/fondodragonball.jpg");
+    background-image: url("../media/fondodragonball.jpg");
     background-size: cover;
     background-position: center;
     font-family: 'Segoe UI', sans-serif;
